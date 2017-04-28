@@ -38,6 +38,7 @@
   "repository": "https://github.com/greenitthe/green-stats.git",
   "dependencies": {
     "clapp": "^1.2.1",
-    "discord.js": "^11.0.0"
+    "discord.js": "^11.0.0",
+    "mongoose": "^4.8.5"
   }
 }
